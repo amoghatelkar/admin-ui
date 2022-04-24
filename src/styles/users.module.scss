@@ -1,0 +1,11 @@
+.users {
+    .loading {
+        height: 4vmin;
+        pointer-events: none;
+        rotate: 180;
+    }
+    .userList{
+        height: 500px;
+        width: '100%';
+    }
+}
